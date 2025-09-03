@@ -1,0 +1,15 @@
+.allineamento{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+.vert-alg{
+    vertical-align: middle;
+}
+
+.pedice{
+    vertical-align: super;
+}
