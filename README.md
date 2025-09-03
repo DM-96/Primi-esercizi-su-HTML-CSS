@@ -12,7 +12,7 @@ Questo progetto è una **pagina web statica in HTML** dedicata alla vita, ai con
 
 ## Tecnologie utilizzate
 - HTML5 semantico (`<header>`, `<main>`, `<section>`, `<figure>`, `<footer>`)
-- Collegamento a foglio di stile CSS esterno (opzionale se hai aggiunto stili)
+
 
 ## Obiettivi dell'esercizio
 - Praticare la struttura semantica di una pagina web
